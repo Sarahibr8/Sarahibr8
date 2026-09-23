@@ -2,7 +2,7 @@
 
 # Hi, I'm Sarah Alsubaie 👋
 
-### Python Backend Developer | Django | SQL | Databases
+### Python Backend Developer | Django | SQL & Databases
 
 Building practical backend applications with **Python, Django, SQL, and databases** while continuously developing my software engineering skills through hands-on projects.
 
@@ -20,43 +20,43 @@ Building practical backend applications with **Python, Django, SQL, and database
 - 🗄️ Interested in **SQL, databases, and database-driven applications**
 - 🧩 Enjoy turning requirements into structured, practical solutions
 - 📚 Developing my skills through hands-on projects and continuous learning
-- 🇹🇷 **Turkish language experience** alongside Arabic and English
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming & Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-
-### Databases
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+**Backend:** Python · Django · SQL · Databases  
+**Web:** HTML5 · CSS3 · Responsive Design  
+**Tools:** Git · GitHub · VS Code
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 Featured Projects
 
-- Building and improving **Python projects**
-- Developing **Django web applications**
-- Strengthening my **SQL and database** skills
-- Practicing clean, structured, and maintainable code
-- Building a portfolio that demonstrates practical development skills
+### 📚 StudyHub — Django Learning Resources Portal
 
----
+A Django project demonstrating practical backend and web development concepts.
 
-## 📂 Featured Project
+- URL routing & views
+- Templates
+- Forms & validation
+- Sessions & cookies
+- Custom 404 handling
+- Responsive UI
+- Light & dark themes
 
-### 🐍 Python Bootcamp
+🔗 **Repository:** [studyhub-django](https://github.com/Sarahibr8/studyhub-django)
 
-A hands-on learning repository covering my progress and practical work in Python and web development.
+### 🇸🇦 Rahhala — Saudi Travel Website
 
-🔗 **Repository:** [python-bootcamp](https://github.com/Sarahibr8/python-bootcamp)
+A responsive travel website showcasing the beauty, heritage, and destinations of Saudi Arabia.
+
+- HTML5
+- CSS3
+- Responsive design
+- Interactive visual presentation
+
+🔗 **Repository:** [rahhala-saudi-travel](https://github.com/Sarahibr8/rahhala-saudi-travel)
 
 ---
 
@@ -64,15 +64,7 @@ A hands-on learning repository covering my progress and practical work in Python
 
 **Python** → **Django** → **Backend Development** → **SQL & Databases** → **APIs**
 
-I'm focused on building a strong foundation in backend development and turning what I learn into practical projects.
-
----
-
-## 🌍 Languages
-
-- 🇸🇦 **Arabic**
-- 🇬🇧 **English**
-- 🇹🇷 **Turkish — language experience**
+Building practical projects while strengthening my backend development skills and software engineering foundations.
 
 ---
 
