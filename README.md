@@ -26,8 +26,8 @@ Building practical backend applications with **Python, Django, SQL, and database
 ## 🛠️ Technical Skills
 
 **Backend:** Python · Django · SQL · Databases  
-**Web:** HTML5 · CSS3 · Responsive Design  
-**Tools:** Git · GitHub · VS Code
+**Web:** HTML · CSS · Responsive Design  
+**Tools:** Git · GitHub · Docker · Railway · VS Code
 
 ---
 
@@ -37,22 +37,24 @@ Building practical backend applications with **Python, Django, SQL, and database
 
 A Django project demonstrating practical backend and web development concepts.
 
-- URL routing & views
-- Templates
+- Authentication: Sign Up, Login & Logout
 - Forms & validation
 - Sessions & cookies
 - Custom 404 handling
 - Responsive UI
 - Light & dark themes
+- Automated tests
+- Docker & Railway deployment
 
-🔗 **Repository:** [studyhub-django](https://github.com/Sarahibr8/studyhub-django)
+🔗 **Repository:** [studyhub-django](https://github.com/Sarahibr8/studyhub-django)  
+🌐 **Live Demo:** [StudyHub](https://studyhub-production-6f03.up.railway.app)
 
 ### 🇸🇦 Rahhala — Saudi Travel Website
 
 A responsive travel website showcasing the beauty, heritage, and destinations of Saudi Arabia.
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - Responsive design
 - Interactive visual presentation
 
@@ -65,6 +67,12 @@ A responsive travel website showcasing the beauty, heritage, and destinations of
 **Python** → **Django** → **Backend Development** → **SQL & Databases** → **APIs**
 
 Building practical projects while strengthening my backend development skills and software engineering foundations.
+
+---
+
+## 🌍 Languages
+
+Arabic · English · Turkish
 
 ---
 
