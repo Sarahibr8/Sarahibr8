@@ -27,7 +27,7 @@ Building practical backend applications with **Python, Django, SQL, and database
 
 **Backend:** Python · Django · SQL · Databases  
 **Web:** HTML · CSS · Responsive Design  
-**Tools:** Git · GitHub · Docker · Railway · VS Code
+**Tools:** Git · GitHub · Docker · VS Code
 
 ---
 
@@ -44,10 +44,9 @@ A Django project demonstrating practical backend and web development concepts.
 - Responsive UI
 - Light & dark themes
 - Automated tests
-- Docker & Railway deployment
+- Docker support
 
-🔗 **Repository:** [studyhub-django](https://github.com/Sarahibr8/studyhub-django)  
-🌐 **Live Demo:** [StudyHub](https://studyhub-production-6f03.up.railway.app)
+🔗 **Repository:** [studyhub-django](https://github.com/Sarahibr8/studyhub-django)
 
 ### 🇸🇦 Rahhala — Saudi Travel Website
 
@@ -58,8 +57,7 @@ A responsive travel website showcasing the beauty, heritage, and destinations of
 - Responsive design
 - Interactive visual presentation
 
-🔗 **Repository:** [rahhala-saudi-travel](https://github.com/Sarahibr8/rahhala-saudi-travel)  
-🌐 **Live Demo:** [Rahhala](https://rahhala-production.up.railway.app)
+🔗 **Repository:** [rahhala-saudi-travel](https://github.com/Sarahibr8/rahhala-saudi-travel)
 
 ---
 
