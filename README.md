@@ -6,7 +6,7 @@
 
 Building practical backend applications with **Python, Django, SQL, and databases** while continuously developing my software engineering skills through hands-on projects.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-83C5D1?style=flat&logo=googlechrome&logoColor=black)](https://sarah-alsubaie.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-83C5D1?style=flat&logo=googlechrome&logoColor=black)](https://sarah-alsubaie.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sarah%20Alsubaie-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah-alsubaie-a41199217/)
 [![GitHub](https://img.shields.io/badge/GitHub-Sarahibr8-181717?style=flat&logo=github&logoColor=white)](https://github.com/Sarahibr8)
 
