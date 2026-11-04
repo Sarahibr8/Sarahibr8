@@ -34,6 +34,42 @@ Building practical backend applications with **Python, Django, SQL, and database
 
 ## 🚀 Featured Projects
 
+### 🧠 EOIP — Expo Operations Intelligence Platform
+
+A decision-support platform designed for the Expo 2030 Riyadh Operations Center, developed for **Track 3: Operations, Safety & Security — Challenge 3.6**.
+
+As part of **SaudiWay**, I served as the **Team Leader** and contributed from a **Database Programming** perspective, helping shape the data structure and operational information flow.
+
+- Consolidates operational reports from different sources into a unified workflow.
+- Connects related reports into incidents and prioritizes them by urgency.
+- Supports operational decisions with response recommendations and impact simulation.
+- Includes escalation levels and an auditable decision log, while keeping final decisions with the human operator.
+- Built with a bilingual Arabic/English interface.
+
+**Technologies:** Python · Django · SQLite · JavaScript · YOLOv8 · OpenCV  
+**Role:** Team Leader · Database Programming  
+**Team:** SaudiWay
+
+🔗 **Live Demo:** [EOIP](https://sarahibr8.github.io/EOIP/)  
+🔗 **Repository:** [EOIP on GitHub](https://github.com/Sarahibr8/EOIP)  
+🎥 **Project Walkthrough:** [Watch Video](https://drive.google.com/file/d/17c5Famj9-RRXz8gjZLbL44LMZb5Uh7Vc/view)
+
+### 🎬 MASHHAD — AI Film & Creative Production Platform
+
+A Saudi-focused platform concept that connects individuals and organizations looking for visual productions with independent creators, creative teams, and production companies. It helps users discover portfolios and services, compare offers, and manage individual or team project requests.
+
+- Creator and production-team discovery with search and filtering.
+- Portfolio and service listings with pricing and delivery details.
+- Project requests, offer comparison, and offer selection.
+- Team workflows with member responsibilities, pricing shares, and approvals.
+- Arabic right-to-left interface.
+
+**Technologies:** Python · Django 5.2 · SQLite · Django Templates · HTML · CSS  
+**Project Type:** Tuwaiq Python Web Application Development Bootcamp Capstone
+
+🔗 **Live Demo:** [MASHHAD](https://mashhad-sarah.netlify.app/)  
+🔗 **Repository:** [MASHHAD Capstone Project](https://github.com/Sarahibr8/Sarah-AlSubaie-Mashhad-Capstone-Project)
+
 ### 📚 StudyHub — Django Learning Resources Portal
 
 A Django project demonstrating practical backend and web development concepts.
@@ -47,16 +83,20 @@ A Django project demonstrating practical backend and web development concepts.
 - Automated tests
 - Docker support
 
+**Technologies:** Python · Django · SQLite · HTML · CSS · Docker
+
 🔗 **Repository:** [studyhub-django](https://github.com/Sarahibr8/studyhub-django)
 
 ### 🇸🇦 Rahhala — Saudi Travel Website
 
 A responsive travel website showcasing the beauty, heritage, and destinations of Saudi Arabia.
 
-- HTML
-- CSS
-- Responsive design
-- Interactive visual presentation
+- Saudi destinations showcase
+- Responsive layout using Flexbox and CSS Grid
+- CSS hover effects, transitions, and animations
+- Front-end project with ideas for future backend and database development
+
+**Technologies:** HTML5 · CSS3 · Flexbox · CSS Grid · Media Queries
 
 🔗 **Repository:** [rahhala-saudi-travel](https://github.com/Sarahibr8/rahhala-saudi-travel)
 
