@@ -2,7 +2,7 @@
 
 # Hi, I'm Sarah Alsubaie 👋
 
-### Python Backend Developer | Django | SQL & Databases
+### Software Developer | Python & Django | Backend & Database Development
 
 Building practical backend applications with **Python, Django, SQL, and databases** while continuously developing my software engineering skills through hands-on projects.
 
